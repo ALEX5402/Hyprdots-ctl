@@ -28,7 +28,7 @@ Advanced usage:
                                                               Default: '${HOME}/Hyprdots'
 
         --git https://gitclone/repo/link/                          Repository link to be cloned
-                                                              Default: 'https://github.com/prasanthrangan/hyprdots'
+                                                              Default: 'https://github.com/ALEX5402/hyprdots'
 HANDLE_ERROR
                 exit  1
                 ;;
@@ -41,7 +41,7 @@ HANDLE_ERROR
 
     # Set default values if not provided
     CloneDir=${CloneDir:-${HOME}/Hyprdots}
-    GIT=${GIT:-"https://github.com/prasanthrangan/hyprdots"}
+    GIT=${GIT:-"https://github.com/ALEX5402/hyprdots"}
 
 
 #? One Time Set up on Terminal. 

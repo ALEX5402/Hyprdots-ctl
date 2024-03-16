@@ -15,7 +15,7 @@ $(tput setaf 2)Hello ${USER}! This is an automated installation for Hyprdots.$(t
 
 Hyprdots-ctl is an active helper for Hyprdots. During this installation, the script will:
 1. Check if Hyprdots is already installed.
-2. If not, it will clone the Hyprdots repository from GitHub. https://github.com/prasanthrangan/hyprdots
+2. If not, it will clone the Hyprdots repository from GitHub. https://github.com/alex5402/hyprdots
 3. Optionally, you can add Chaotic AUR to your mirror list for faster package installation.
 4. Finally, it will clone the Hyprdots repository and run the installation script.
 
@@ -30,7 +30,7 @@ $(tput setaf 6)And wait, there's more!!! Checkout 'Hyprdots man' to see how you 
 
 HAVE A GOOD DAY!
 
-Visit: https://github.com/kRHYME7/Hyprdots-ctl for more information.
+Visit: https://github.com/ALEX5402/Hyprdots-ctl for more information.
 ${barLine}
 
 Clone Directory: ${CloneDir}

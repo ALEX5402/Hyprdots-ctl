@@ -11,7 +11,7 @@ For advanced usage see options below
                                                                 Default: '${HOME}/Hyprdots'
 
         --git https://gitclone/link/                          Repository link to be cloned
-                                                                Default: 'https://github.com/prasanthrangan/hyprdots'
+                                                                Default: 'https://github.com/ALEX5402/hyprdots'
 HANDLE_ERROR
   exit 1 
  }
